@@ -61,9 +61,9 @@ Exportar a Hojas de cálculo
 
 
 ✏️ 2. Limpieza y Transformación de Datos
-Se manejan valores nulos ❌.
-Se crea la variable engagement_score para medir la interacción del usuario .
-Se normalizan los datos para evitar sesgos ⚖️.
+-Se manejan valores nulos ❌.
+-Se crea la variable engagement_score para medir la interacción del usuario .
+-Se normalizan los datos para evitar sesgos ⚖️.
 
 
 3. Segmentación con K-Means/MiniBatchKMeans
@@ -94,4 +94,8 @@ Este proyecto permite segmentar usuarios de mailing para optimizar estrategias d
 
 
 Contacto
-Email:santiagoaragonmalak@gmail.com GitHub: https://github.com/santiagomalak
+Email:santiagoaragonmalak@gmail.com 
+
+GitHub: https://github.com/santiagomalak
+
+Linkedin: https://www.linkedin.com/in/aragonmalak/
